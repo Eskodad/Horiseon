@@ -9,9 +9,3 @@ Initially, the code had some flaws embeded within it, there were also none-funct
 Website URL: <https://Eskodad.github.io/Projects/>
 
 Repositor URL: <https://github.com/Eskodad/Projects>
-
-## Screenshot
-
-The following image shows the web application's initial appearance:
-
-![Web Screenshot](./weekly-challenge/assests/images/screenshot.png)
