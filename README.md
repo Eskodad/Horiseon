@@ -8,7 +8,7 @@ Initially, the code had some flaws embeded within it, there were also none-funct
 
 Website URL: <https://Eskodad.github.io/Projects>
 
-Repository URL: <https//github.com/Eskodad/Projects>
+Repository URL: <https://github.com/Eskodad/Projects>
 
 ## Sreenshot
 
