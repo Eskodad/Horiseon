@@ -8,7 +8,6 @@ Initially, the code had some flaws embeded within it, there were also none-funct
 
 Website URL: <https://Eskodad.github.io/Projects>
 
-<<<<<<< HEAD
 Repository URL: <https//github.com/Eskodad/Projects>
 
 ## Sreenshot
@@ -16,7 +15,3 @@ Repository URL: <https//github.com/Eskodad/Projects>
 The image below shows the web application's initial look:
 
 ![Web Screenshot](./assets/images/screenshot.png)
-=======
-
-Repositor URL: <https://github.com/Eskodad/Projects>
->>>>>>> 37f5c11b708ba40f4134c385408a59a030507969
