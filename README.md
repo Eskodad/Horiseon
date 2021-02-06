@@ -6,9 +6,9 @@ The repository shows the end product of the refactored code for Horiseon Social 
 
 Initially, the code had some flaws embeded within it, there were also none-functional links in the navigation bars. I cleaned up the codebase which improved on the functionalities of the webpage and and also made the links functionable so that when navigating through them, they'll take you straight to their designated areas in the webpage. I also made some changes to the title of the page indicating "Horiseon Social Remedial Services".  You'll notice that semantic html elements were used when when viewing the source code, and they are also in a logical order.
 
-Website URL: https://anniemcfarland7.github.io/01-HTML-CSS-Git-Code-Refactor/
+Website URL: https://Eskodad.github.io/Projects
 
-Repository URL: https://github.com/anniemcfarland7/01-HTML-CSS-Git-Code-Refactor
+Repositor URL: https//github.com/Eskodad/Projects
 
 ## Screenshot
 
