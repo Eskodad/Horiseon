@@ -14,4 +14,4 @@ Repositor URL: <https://github.com/Eskodad/Projects>
 
 The following image shows the web application's initial appearance:
 
-![Screenshot](./assets/images/screenshot.png)
+![Web Screenshot](./assets/images/screenshot.png)
